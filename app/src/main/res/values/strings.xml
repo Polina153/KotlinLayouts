@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinLayouts</string>
+    <string name="button_sting">New button</string>
 </resources>
